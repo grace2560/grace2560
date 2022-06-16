@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grace2560
+- 👋 Hi, I’m @grace nalule n
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on web and other projects
