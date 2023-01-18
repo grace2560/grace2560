@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript and python
 - 💞️ I’m looking to collaborate on web and other projects
-- 📫 How to reach me @grace256nakgrace@gmail.com
+- 📫 How to reach me @g.nalule@alustudent.com
 
 <!---
 grace2560/grace2560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
